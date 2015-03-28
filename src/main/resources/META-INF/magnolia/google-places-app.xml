@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>google-places</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <class>com.neatresults.mgnlextensions.googleplaces.GooglePlacesModule</class>
+  <versionHandler>com.neatresults.mgnlextensions.googleplaces.setup.GooglePlacesModuleVersionHandler</versionHandler>
+  <version>${project.version}</version>
+  <components>
+    <id>subapp</id>
+    <component>
+      <type>com.neatresults.mgnlextensions.googleplaces.presenter.MultiFormDialogPresenterFactory</type>
+      <implementation>com.neatresults.mgnlextensions.googleplaces.presenter.MultiFormDialogPresenterFactoryImpl</implementation>
+    </component>
+  </components>
+  <dependencies>
+    <dependency>
+      <name>core</name>
+      <version>5.3/*</version>
+    </dependency>
+    <dependency>
+      <name>ui-admincentral</name>
+      <version>5.0/*</version>
+    </dependency>
+    <dependency>
+      <name>dam</name>
+      <version>1.0/*</version>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <name>categorization</name>
+      <version>1.0/*</version>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <name>magnolia</name>
+      <workspaces>
+        <workspace>googlePlaces</workspace>
+      </workspaces>
+      <nodeTypeFile>/mgnl-nodetypes/google-places-nodetypes.xml</nodeTypeFile>
+    </repository>
+  </repositories>
+
+</module>

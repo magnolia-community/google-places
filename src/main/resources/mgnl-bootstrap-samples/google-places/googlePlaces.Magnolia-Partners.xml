@@ -1,0 +1,3940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="Magnolia-Partners" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>846b8a60-a043-4dbc-91d1-895bdb11e4d2</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:createdBy" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2015-03-27T15:37:54.265+07:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:node sv:name="abel-systems">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>1961cdde-0aeb-4609-9b37-efa8bfc24b46</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.555170</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.579675</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.891+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>abel-systems</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Schützenmattstrasse 44</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="AdNovum-Informatik-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>3a0fcfe3-14e3-40e3-b7b3-83797ac20c89</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.383168</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.528044</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.895+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>AdNovum Informatik AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Röntgenstrasse 22 </sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="AdNovum-Singapore-Pte.-Ltd.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>78649300-41c1-4686-8fd4-4efe7770ae37</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Singapore</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Singapore</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>1.27372</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>103.844486</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.897+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>AdNovum Singapore Pte. Ltd.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>72 Anson Road, #05-01 Anson House,</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Aperto-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e931406a-3854-4511-a565-5e10e4edc8c4</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Berlin</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.527941</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.386715</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.900+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Aperto AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>In der Pianofabrik Chausseestrasse 5 Berlin-Mitte</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Aperto-Asia">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>23199730-39b2-4d80-865b-b42ad686ae27</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Beijing</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>China</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>39.904211</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>116.407395</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.903+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Aperto Asia</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Chaowai SOHO, Tower B 210, Chaowai Street 6B</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Aperto-Middle-East-FZLLC-">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>de4b62e3-d1ae-4058-80de-10fc814cf0b8</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Dubai</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Emirats</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>25.096136</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>55.157589</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.905+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Aperto Middle East FZLLC </sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>BCT Dubai Media City </sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Aperto-Schweiz-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>62611587-3e56-49d1-8260-4efd6d094967</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.555851</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.588897</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.908+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Aperto Schweiz AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Falknerstraße 26</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Aplicaciones-y-Tratamientos-de-Sistemas-S.A">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>fdd1ed5f-74af-4f78-845d-4318d3ad74d0</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Madrid</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>40.517328</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-3.883504</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.910+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Aplicaciones y Tratamientos de Sistemas S.A</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Calle Valle de Alcudia 3</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Arnold-Media,-LLC">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ce84f7f1-a6ce-4917-bcfd-a7edfee0ae5a</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Atlanta</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>33.8014873</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-84.3927522</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.913+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Arnold Media, LLC</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>3280 Peachtree Street, NE Suite 600</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="arvato-Systems-Schweiz-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>beac1966-0b6f-47bb-9d44-da2432cc5a44</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.390295</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.515177</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.919+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>arvato Systems Schweiz AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Technoparkstrasse 1</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Bilbomática">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b9ef3e1f-4625-41c4-b5e2-e2e1c2cf5ab0</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Bilbao </sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>42.88169</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-8.54152</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.922+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Bilbomática</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Edificio Miribilla C/ Santiago de Compostela, 12 4º A</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="bluesky-IT-Solutions-AG-">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>aa7325c9-4ad2-4901-9d75-d28f64c867e5</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Münchenstein</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.521720</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.607695</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.925+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>bluesky IT-Solutions AG </sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Kaspar Pfeiffer-Strasse 4</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Center-of-Open-Systems-and-High-Technologies">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>117f0dc6-2f14-42d4-b56d-2958d8f4d686</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Dolgoprudnyi, Moscow Region</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Russian Federation</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>55.933333</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>37.500000</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.929+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Center of Open Systems and High Technologies</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Institutsky per, 9</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Ciber-Spain">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>731bc27a-ee44-46b7-b926-71e19c66939e</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>40.457124</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-3.693648</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.931+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Ciber Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Coders-Center">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>55bb40ca-089b-4c5e-b82a-0daa36b0cfa6</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Poland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.108982</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>17.02919</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.934+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Coders Center</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>PLAC SOLNY 15; 50-062 WROCŁAW</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Crescendo-Collective">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e84be722-61ca-413b-b07c-fbc3b55400da</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Milwaukee</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>43.030118</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-87.911972</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.936+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Crescendo Collective</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>131 Seeboth Street, Suite 301</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="cysNET">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>a1642cf6-8bd4-4f6c-b018-238111d41cd5</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Pamplona</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>42.800055</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-1.645938</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.940+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>cysNET</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>C/ Miguel Astrain, 16</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Deimos-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>83c87a34-0afd-40d7-85f5-7625b31227d2</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.390649</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.521574</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.943+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Deimos AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Escher Wyss Areal Hardstrasse 319</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="digitasLBi-(FR)">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>50197fc5-3977-482a-b6b9-1a1a14f08c06</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.945+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>digitasLBi (FR)</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="DOUBLEYOU">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ec947e00-2c54-4c9c-9bd5-146b9754ff2a</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Barcelona</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>41.405353</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>2.157153</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.951+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>DOUBLEYOU</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Església, 4-10, 2°, 08024.</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Edicos-Group">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>72a78cba-f65b-4277-b33f-06a80c9712fa</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>München</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.106150</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>11.566993</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.954+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Edicos Group</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Birkenleiten 41</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Ekino-(FullSix)">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>be34cddc-75c8-4b58-a5ee-9f2196b5c878</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.897833</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>2.278954</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.956+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Ekino (FullSix)</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="EQS-Corporate-Communications-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b1bac385-966d-47db-b106-1b87a3c3e282</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.363161</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.547097</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.958+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>EQS Corporate Communications GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Utoquai 43</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="esense-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>3b54fa0d-0fbf-4d6d-b033-dac1a832d30b</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.558137</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.601180</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.961+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>esense GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Burgweg 7</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Etecture-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>a12156f1-b280-476c-97e8-e78259670201</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Frankfurt am Main</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.095573</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.690631</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.964+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Etecture GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Darmstädter Landstrasse 112</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="ETECTURE-Ogilvy">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>f434b2ff-865e-4a30-b0e6-3d74218e544c</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>London</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.505931</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-0.022312</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.966+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>ETECTURE@Ogilvy</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>10 Cabot Square Canary Wharf</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Eveo">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>6c84246c-9889-4f96-9d65-642838c4f5c1</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>San Francisco</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>37.801809</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-122.401449</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.969+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Eveo</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>1160 Battery St. Suite 275</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="eXa-online-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c903f6be-8d25-4d0e-931b-1ae322a96eae</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Leipzig</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.305275</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>12.377095</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.971+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>eXa-online GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Meusdorfer Str. 33-35</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="fastforward-websolutions-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>149982cb-b09f-4bab-b4bd-b9e57c94b16a</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Bern</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>46.948123</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.451361</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.974+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>fastforward websolutions GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Kramgasse 16</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Future-Platforms">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c23a84fc-11d9-49cd-b355-93ae8bc00194</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>London</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.507351</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-0.127758</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.979+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Future Platforms</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Newcombe House 43-45 Notting Hill Gate</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="GFT-ITALIA-S.r.l.,-former-Sempla">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>0b07bcc9-581a-440e-a2e2-d261a0c28eb6</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Milano</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Italia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>45.486040</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.197997</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.981+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>GFT ITALIA S.r.l., former Sempla</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Via Alfredo Campanini, 6</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="headwire.com,-Inc">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2a7c3d5a-ecc6-4c47-bb77-747461f5849a</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Lake Forest</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>33.661246</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-117.672059</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.985+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>headwire.com, Inc</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>26242 Dimension Drive Suite 240</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="HotHouse-Interactive">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>0eefd939-a603-47ce-9358-590138da03dc</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>St Leonards</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Australia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>-33.824134</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>151.196111</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.988+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>HotHouse Interactive</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>95 Nicholson Street</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="ilscipio-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4a43f1cc-4d29-40bc-8d8c-dd8cddf64e12</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Heuchelheim</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.583530</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.620850</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.990+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>ilscipio GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Am Drosselschlag 7</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Info.nl">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>57b90222-f481-46f6-bf0f-164ab151a183</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Amsterdam</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Netherlands</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.371567</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>4.900359</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.993+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Info.nl</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Sint Antoniesbreestraat 16</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Interone-Worldwide-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d0641f86-ba9b-4ead-b719-cb12d6d88893</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>München</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.133840</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>11.545650</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.995+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Interone Worldwide GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Theresienhöfe 12</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Interwall-Suisse-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e91b4e56-8050-4be4-b43b-8775f61d1543</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Adliswil</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.305750</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.524784</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:29.998+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Interwall Suisse AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Webereistrasse 56</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Jung-von-Matt-Neckar-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>22386221-70ce-46fc-9b73-6d1bdcad4c8c</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Stuttgart</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.791332</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.199418</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.000+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Jung von Matt/Neckar GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Neckarstrasse 190</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Know-IT-AB">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ff4016a9-0ef1-4e93-b08f-73c26c356a6f</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Göteborg</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Sweden</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>57.709459</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>11.966868</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.003+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Know IT AB</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Östra Hamngatan 16</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="kreuzwerker-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b6691e35-bbab-4bf0-a1fb-e608e34bb48b</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Berlin</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.501800</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.411154</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.008+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>kreuzwerker GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Ritterstrasse 12-14</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="kubus-media-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>86119e3b-5f9e-493d-b5e7-9106dedd516e</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.567442</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.597551</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.011+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>kubus media AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Petersgasse 24 Postfach</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="La-Pera-Limonera">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4f94c7a3-3dcb-4676-bf2d-ce1bed39ce14</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Terrassa, Barcelona</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>41.385064</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>2.173403</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.014+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>La Pera Limonera</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Calle Júpiter, 11, local 9</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Lemonize-UG-">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2f80209d-b1c8-4762-a9bd-b6a47db32ac7</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Bernstadt</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.500495</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>10.024472</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.016+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Lemonize UG </sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Platzgasse 8</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Logicdrop">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>88e6e064-3ee6-463b-9bef-6a3875129290</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.018+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Logicdrop</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="menzel.com">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>07a7f439-e7e5-4cb8-b3a6-f28b389f5e24</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Hamburg</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>53.546927</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.985115</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.021+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>menzel.com</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Rödingsmarkt 14</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Namics-(Deutschland)-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>a1e54bad-2e1a-4650-898a-ad5f3ed7f15c</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Frankfurt am Main </sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.098284</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.681912</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.023+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Namics (Deutschland) GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Hedderichstrasse 108 - 110</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Namics-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4020bd5d-33de-43f9-919c-11a113cc86f3</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.364739</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.531202</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.026+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Namics AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Bederstrasse 1</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Neofonie-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d3500a43-bd0e-498f-92e7-d9717ae4ae97</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Berlin</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.528126</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.379538</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.029+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Neofonie GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Robert-Koch-Platz 4</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Neoskop-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>731b3c20-097c-437e-ad4d-2452f9468850</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Hannover</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.376595</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.738821</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.031+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Neoskop GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Ernst-August-Platz 3</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Netcetera-(Macedonia)">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>188ba8cc-0867-468f-893b-d6c261ca0098</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Skopje</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Macedonia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>41.996818</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>21.426850</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.036+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Netcetera (Macedonia)</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>ul. Partizanski Odredi 72a</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Netcetera-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>3dac4830-a3ad-4efd-8027-d09e21829cba</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.378672</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.514405</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.039+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Netcetera AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Zypressenstr. 71</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Netcetera-FZ-LLC">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d5b1f0ce-5f77-45f0-aed4-91e7509b0720</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Dubai</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>United Arab Emirates</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.042+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Netcetera FZ-LLC</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Nexum-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>f1d4e717-2be9-495b-b8e3-22d4f8564991</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Köln</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.944560</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>6.897700</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.045+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Nexum AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Maarweg 149-161</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="NRG-Edge,-Inc.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>77c028fc-5cd2-4b56-a608-ddf2502ba01c</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Malvern</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>40.064680</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-75.533642</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.047+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>NRG-Edge, Inc.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>5 Great Valley Parkway Suite 210</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Open-Interactive-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>a9fc9303-1162-41d9-b16e-cb1d16ec9d3f</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.570323</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.572632</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.050+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Open Interactive GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Vogesenplatz 1</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Open-Wide">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c99ff7d3-04ca-4c94-b95b-58ef92754678</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Paris</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>France</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.868516</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>2.334216</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.053+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Open Wide</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>14 rue Gaillon</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="OpenMind-S.r.l.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>185f6c11-f267-4f17-82fb-d7f6b76ca509</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Monza</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Italia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>45.577957</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.289494</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.060+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>OpenMind S.r.l.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>V.G. Ferrari 39</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Panter-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>1fadaffd-2573-46e8-97bd-f55a3a4b8e98</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.371564</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.5196</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.062+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Panter AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Priocept-Ltd.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b83ff479-ca18-47c8-a149-9ecee1761b13</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>London</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.516688</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-0.079424</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.065+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Priocept Ltd.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>14 Devonshire Square</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Prodyna-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>fcc525d1-a9c7-49db-a5df-dc21a7cee2cd</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Eschborn</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.146090</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.553107</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.070+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Prodyna AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Ludwig-Erhard-Str. 12-14</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Quatico-Solutions-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2ce7ec21-591d-4722-a120-eb4f6168b5ed</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Zürich</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.368650</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.539183</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.073+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Quatico Solutions AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Schöntalstrasse 21 Postfach 8673</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Ray-Sono-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>32e31341-8a6f-4b48-b6b2-e9fd0ef67622</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>München</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.126010</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>11.556770</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.076+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Ray Sono AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Tumblingerstrasse 32</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="RedTree">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2b1bc4a7-19ae-4057-b0cf-ea0f3910579b</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Gent</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Belgium</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.055917</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>3.742263</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.079+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>RedTree</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Dendermondsesteenweg 48/102</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Research-Industrial-Systems-Engineering-GmbH-(RISE)">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>3595fdc3-d4d3-464b-bd08-f0099870964f</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Schwechat</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Austria</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>48.137361</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>16.4954619</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.082+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Research Industrial Systems Engineering GmbH (RISE)</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Am Concorde Business Park F</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Sceneric-Ltd.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>f3bcd961-6f18-48ae-b7d0-f010400a21f1</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Newbury</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.405236</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-1.312760</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.085+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Sceneric Ltd.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>1 London Road</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Screen-Concept">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b3c2ef8f-cdc0-4b61-9f47-23f91a3a2d18</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Steinhausen</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.190239</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>8.482059</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.088+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Screen Concept</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Sennweidstrasse 35</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Softronic-AB">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>734855b3-0200-420a-94c8-97c76bef5c2e</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Stockholm</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Sweden</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>59.307179</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>18.075518</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.090+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Softronic AB</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Ringvägen 100</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="SQLi">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>8acbc023-b849-4b78-8562-a216197bf938</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.093+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>SQLi</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Studio-60">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cecb2a52-1ed2-46d7-b556-d9a8e97c7426</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Australia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.096+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Studio 60</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="SysEleven-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>5af8f0ef-7ccd-43df-b8bf-8f0d78899636</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Berlin</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.494030</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.429200</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.100+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>SysEleven GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Umspannwerk - Aufgang C Ohlauer Straße 43</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="T-Systems-Multimedia-Solutions-GmbH-(Dresden)">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cd855442-f7dc-42b9-b5b7-dfd122769230</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Dresden</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.050409</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.737262</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.103+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>T-Systems Multimedia Solutions GmbH (Dresden)</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Postfach 10 02 24</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="t8y.com-GmbH">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>87afcb79-4911-4374-a55d-1e03bfb12827</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Hamburg</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>53.547506</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.965149</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.105+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>t8y.com GmbH</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Bernhard-Nocht-Straße 113</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Tata-Consulting-Services">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b45c7ade-9353-41af-9098-9b2a23b5c67d</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>New York</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>40.751055</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-73.977752</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.108+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Tata Consulting Services</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>101 Park Avenue, 26th Floor </sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="TBSCG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>95c4cced-0ab0-4b0a-b615-638e522ba474</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>51.109311</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>17.030173</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.111+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>TBSCG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>The Banyan Solutions Consulting Group</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Technophobia-Limited">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>0e8ef058-9ded-48af-86c7-e154dd7bf111</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Sheffield</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>UK</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>53.385019</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-1.474257</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.113+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Technophobia Limited</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Velocity House 3 Solly Street</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Tenthline">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>6238d687-7647-4728-b202-e13034008978</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Toronto</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Canada</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>43.659585</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-79.334207</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.116+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Tenthline</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>13 Caroline Street</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Teravin-Technovations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2adf0294-a757-42ec-8917-7d35508e77c9</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Jakarta</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Indonesia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>-6.211288</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>106.821141</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.119+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Teravin Technovations</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>International Financial Centre 5th Floor Jl. Jend. Sudirman Kav. 22-23</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Tieto-AB">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d2aa5e4d-f8b2-4b54-8101-9dc81366e2c9</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Malmö</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Sweden</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>55.612728</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>12.989613</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.122+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Tieto AB</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Hallenborgs gata 1A P.O.Box 85</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Tinext-SA">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c905c446-c98b-4659-902c-1de5361af49b</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Morbio Inferiore</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>45.848144</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.014575</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.124+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Tinext SA</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Viale Serfontana 7</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Tricode-B.V.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>fa321cd6-718b-4387-bbd1-b913058a0016</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>PL Veenendaal</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Netherlands</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.038974</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>5.547043</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.129+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Tricode B.V.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>De Schutterij 12</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="TriMM-interactive-media-">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e63cb6a8-03b5-4706-a060-15c38ac33871</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Enschede</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Netherlands</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.233009</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>6.890471</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.131+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>TriMM interactive media </sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Moutlaan 25 PO Box 1208</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="VASS">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>83744ea5-4cc4-44c9-ae30-611c5bfa6602</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.134+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>VASS</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value/>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Vector">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>44fd640d-3aed-4a4b-9632-147fa9ae4132</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Madrid</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Spain</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>40.4616469</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-3.8109096</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.136+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Vector</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Camino del Cerro de los Gamos 1 Edificio 6, planta 1</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="VML">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c0a27a30-366f-4235-b108-6008b3dad30c</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Kansas City</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>USA</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>39.120485</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>-94.590601</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.139+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>VML</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>250 Richards Rd.</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Web-eMotion">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>77ed383a-ca80-444c-a58f-ec73fccd3537</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Brussels</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Belgium</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>50.860616</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>4.294321</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.142+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Web-eMotion</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Rue de Grand Bigard 266</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="xailabs">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>5661af89-7b88-490f-926a-55380c776c18</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Berlin</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Germany</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>52.502667</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>13.413682</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.144+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>xailabs</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Oranienstr. 161</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Y-R-Group-Australia-New-Zealand">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>90b045d5-1f9f-4d41-bb05-aaae1a8b5f29</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Sydney</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Australia</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>-33.864358</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>151.204546</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.147+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Y&amp;R Group Australia/New Zealand</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Level 15 35 Clarence St.</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="YMC-AG">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4e48e8ae-4fb9-4861-b8f5-0165a3a0ad77</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Kreuzlingen</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Switzerland</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.651067</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>9.173653</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-27T15:37:30.149+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>YMC AG</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Sonnenstr. 4</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Studio-62">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cedb12ec-5785-4999-ab46-e5e6102cfedd</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>99f6a959-9ecb-48cc-8791-71e1eb9d144e</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>HCMC</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Vietnam</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>10.789989</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>106.699174</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-24T14:35:05.855+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-27T15:38:33.371+07:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Studio 60</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Van Nguyen 60</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

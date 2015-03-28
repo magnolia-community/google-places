@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="Magnolia-Intl-Offices" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>cb846cd5-60a2-4a56-911a-a8e40df81f68</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:createdBy" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2015-02-26T08:25:01.078+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2015-02-26T08:30:17.535+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:node sv:name="Magnolia-Americas--Inc.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>2881be23-917b-49e1-946f-641be4de339b</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>28c92d99-a490-48e5-862e-d7a6ee66eaef</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Miami</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-07-20T18:45:34.121+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2014-07-20T18:45:34.121+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-02T19:50:12.791+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Magnolia Americas, Inc.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>168 SE 1st Street</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Magnolia-International-Ltd.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>6ca9665f-253d-4be2-ac23-ec0972711a7d</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>28c92d99-a490-48e5-862e-d7a6ee66eaef</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Basel</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="latitude" sv:type="String">
+      <sv:value>47.5638326</sv:value>
+    </sv:property>
+    <sv:property sv:name="longitude" sv:type="String">
+      <sv:value>7.584422</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-07-20T18:43:20.055+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-03T09:03:01.024+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Magnolia International Ltd.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>St Johanns-Vorstadt 38</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Magnolia-Software---Services-CZ-s.r.o.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>70afc4f9-0e40-4122-a726-b9470f2930d6</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>28c92d99-a490-48e5-862e-d7a6ee66eaef</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Kroměříž</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-07-20T18:43:27.176+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2014-07-20T18:43:27.176+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-02-26T08:37:59.318+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Magnolia Software &amp; Services CZ s.r.o.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Chobot 1578</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Magnolia-Espa-a-Software-and-Computer-Applications-S.L.">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>4d5d42f6-919d-4fae-931a-199d568e1ec9</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>28c92d99-a490-48e5-862e-d7a6ee66eaef</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Madrid</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2014-07-20T18:43:26.712+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2014-07-20T18:43:26.712+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-02-26T08:38:07.713+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Magnolia España Software and Computer Applications S.L.</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>Paseo de la Castellana 153, Bajo</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Magnolia-Saigon">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:google-place</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>8b29bc35-c218-41f6-8dba-0938eba9da7e</sv:value>
+    </sv:property>
+    <sv:property sv:name="categories" sv:type="String" sv:multiple="true">
+      <sv:value>28c92d99-a490-48e5-862e-d7a6ee66eaef</sv:value>
+    </sv:property>
+    <sv:property sv:name="city" sv:type="String">
+      <sv:value>Ho Chi Minh City</sv:value>
+    </sv:property>
+    <sv:property sv:name="country" sv:type="String">
+      <sv:value>Vietnam</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-02-25T17:49:30.973+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-03T09:01:07.739+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="place" sv:type="String">
+      <sv:value>Magnolia Saigon</sv:value>
+    </sv:property>
+    <sv:property sv:name="street" sv:type="String">
+      <sv:value>364 Cong Hoa Street</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

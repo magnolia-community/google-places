@@ -8,3 +8,5 @@ overlays
 .project
 .classpath
 .settings
+src/main/resources/rebel.xml
+bin

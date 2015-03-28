@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="places" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>a80a4635-9809-411b-890e-b022216b679e</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:createdBy" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2015-03-03T14:02:20.539+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2015-03-03T14:02:44.786+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:node sv:name="mgnlpart">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:asset</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>51941b82-9c3a-4e40-b092-17fe798d3326</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-03-03T14:02:44.786+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-03-03T14:02:44.786+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="name" sv:type="String">
+      <sv:value>mgnlpart.png</sv:value>
+    </sv:property>
+    <sv:node sv:name="jcr:content">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:resource</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c1db54b8-5828-43cc-b612-d27b0083005c</sv:value>
+      </sv:property>
+      <sv:property sv:name="extension" sv:type="String">
+        <sv:value>png</sv:value>
+      </sv:property>
+      <sv:property sv:name="fileName" sv:type="String">
+        <sv:value>mgnlpart.png</sv:value>
+      </sv:property>
+      <sv:property sv:name="height" sv:type="Long">
+        <sv:value>0</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:data" sv:type="Binary">
+        <sv:value>AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcXFz/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9cXFz/W1tb////////////////////////////////////////////////////////////////////////////W1tb/1tbW/////////////j4+P/o6Oj/3t7e/97e3v/f39//4ODg/+Hh4f/p6en/9/f3/////////////////1tbW/9bW1v//v7+/9LS0v+2trb/xcXF/9ra2v/k5OT/6Ojo/+fn5//h4eH/09PT/8DAwP/Kysr/7+/v//////9bW1v/W1tb//f39/+vr6//sLCw//j4+P/////////////////////////////////t7e3/qamp/7i4uP/7+/v/W1tb/1tbW//+/v7/1dXV/7m5uf/T09P/6+vr//f39//5+fn/8vLy/+rq6v/h4eH/xsbG/6enp/+9vb3/+fn5/1tbW/9bW1v////////////19fX/0dHR/7a2tv+3t7f/vLy8/729vf+6urr/sbGx/7+/v//X19f/8fHx//////9bW1v/W1tb/////////////////8bGxv+np6f/wsLC/+bm5v/s7Oz/7u7u//Dw8P/7+/v/////////////////W1tb/1tbW//////////////////39/f/zs7O/76+vv/Ozs7/1dXV/9fX1//S0tL/0dHR/+jo6P/7+/v//////1tbW/9bW1v/////////////////+/v7/8bGxv+lpaX/0NDQ//f39//7+/v/8fHx/8rKyv+pqan/zMzM//39/f9bW1v/W1tb//////////////////j4+P+3t7f/oqKi/+Li4v/////////////////+/v7/sLCw/7Gxsf/19fX/W1tb/1tbW///////////////////////7Ozs/7y8vP+1tbX/3Nzc//Dw8P/w8PD/09PT/6mpqf+4uLj/+fn5/1tbW/9bW1v////////////////////////////8/Pz/6Ojo/9nZ2f/W1tb/1NTU/9HR0f/e3t7/7+/v//////9bW1v/W1tb////////////////////////////////////////////////////////////////////////////W1tb/1tbW////////////////////////////////////////////////////////////////////////////1tbW/9cXFz/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9cXFz/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModified" sv:type="Date">
+        <sv:value>2015-03-03T14:02:40.508+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mimeType" sv:type="String">
+        <sv:value>image/png</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2015-03-03T14:02:44.787+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2015-03-03T14:02:44.787+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="size" sv:type="Long">
+        <sv:value>1150</sv:value>
+      </sv:property>
+      <sv:property sv:name="width" sv:type="Long">
+        <sv:value>0</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>
