@@ -8,7 +8,7 @@
   </parent>
   <groupId>com.neatresults.mgnlextensions</groupId>
   <artifactId>google-places</artifactId>
-  <version>1.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Google places app</name>
 
@@ -27,7 +27,7 @@
     <connection>scm:git:http://git.magnolia-cms.com/forge/google-places.git</connection>
     <developerConnection>scm:git:https://git.magnolia-cms.com/forge/google-places.git</developerConnection>
     <url>http://git.magnolia-cms.com/gitweb/?p=forge/google-places.git</url>
-    <tag>google-places-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
     <dependency>
