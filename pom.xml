@@ -19,6 +19,16 @@
     <poiVersion>3.10-FINAL</poiVersion>
   </properties>
 
+  <issueManagement>
+    <system>Jira</system>
+    <url>http://jira.magnolia-cms.com/browse/GGLPLACES</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:git:http://git.magnolia-cms.com/forge/google-places.git</connection>
+    <developerConnection>scm:git:https://git.magnolia-cms.com/forge/google-places.git</developerConnection>
+    <url>http://git.magnolia-cms.com/gitweb/?p=forge/google-places.git</url>
+    <tag>HEAD</tag>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>info.magnolia</groupId>
