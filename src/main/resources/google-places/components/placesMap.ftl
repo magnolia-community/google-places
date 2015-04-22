@@ -2,7 +2,7 @@
 [#if places?has_content]
 <style>
     #map-canvas {
-        height: ${content.height!"700"}px;
+        height: ${content.height!"600"}px;
         width: 100%;
         margin: 0px;
         padding: 0px
